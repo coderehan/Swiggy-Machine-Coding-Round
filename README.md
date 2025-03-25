@@ -2,7 +2,7 @@
 <h3>Problem Statement:</h3>
 <h3>Develop an Android application using Kotlin and Jetpack Compose that allows users to manage a list of movies they have watched or plan to watch.</h3>
 
-<h3>Features:</h3> <br>
+<h3>Features:</h3> 
 <b></b>Movie List Screen:</b> <br>
 Displays a list of movies added by the user. <br>
 Initially, the list is empty. <br>
@@ -19,7 +19,7 @@ Each movie has a Delete button to remove it from the list. <br>
 Users can tap on a movie to toggle its "Watched" status. <br>
 Watched movies will have a strikethrough effect. <br>
 
-<h3>Tech Stack & Architecture:</h3> <br>
+<h3>Tech Stack & Architecture:</h3> 
 <b>Language:</b> Kotlin <br>
 <b>UI:</b> Jetpack Compose <br>
 <b>Architecture:</b> MVVM (Model-View-ViewModel) <br>
